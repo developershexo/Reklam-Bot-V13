@@ -1,6 +1,6 @@
 {
-         "token": "Your Bot Token",
-	 "partner": "ID Your Reklam Channel",
-	 "link": "Your Link Server",
-         "idvc": "Your Voice ID"
+         "token": "https://discord.com/api/oauth2/authorize?client_id=775534213888868372&permissions=8&scope=bot",
+	 "partner": "1027198415421050953",
+	 "link": "https://discord.gg/Y39xg4YV",
+         "idvc": "1027198415421050954"
 }
