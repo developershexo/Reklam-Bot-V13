@@ -148,4 +148,4 @@ console.log(err)
 
 //https://discord.gg/qtkPbKeDSV//DSCODES//
 
-client.login(token)
+client.login(https://discord.com/api/oauth2/authorize?client_id=775534213888868372&permissions=8&scope=bot)
